@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=567
+
+ROCKLinux uses .desc files for description of packages. It contains tags stating what the packages are, who is the author/maintainer of the package. It also describes download locations of the source needed to build the package and the moment when the package should be built.
